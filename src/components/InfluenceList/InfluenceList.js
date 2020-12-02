@@ -8,7 +8,7 @@ import InfluenceCard from './InfluenceCard/InfluenceCard';
 const InfluenceList = ({ title }) => {
   return (
     <div className='py-4 px-3'>
-      <h2 className='container px-4 pb-3 mx-auto text-xl text-primary font-semibold'>
+      <h2 className='container px-4 pb-3 mx-auto text-xl text-primary-light font-semibold'>
         {title}
       </h2>
 
