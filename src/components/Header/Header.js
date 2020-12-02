@@ -4,7 +4,7 @@ import Logo from '../UI/Logo/Logo';
 
 const Header = () => {
   return (
-    <header>
+    <header className='container mx-auto'>
       <Logo />
     </header>
   );
